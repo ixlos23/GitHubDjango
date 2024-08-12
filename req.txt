@@ -1,0 +1,11 @@
+asgiref==3.8.1
+Django==5.1
+sqlparse==0.5.1
+typing_extensions==4.12.2
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ixlos23/GitHubDjango.git
+git push -u origin main
